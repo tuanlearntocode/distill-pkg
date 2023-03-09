@@ -19,7 +19,7 @@ echo.
 @pip install -r requirement.txt
 echo.
 
-cls
+
 echo          o
 echo           o
 echo         ___
