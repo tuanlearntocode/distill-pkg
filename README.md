@@ -12,7 +12,7 @@ Mọi số liệu, cũng như công thức tính toán được lấy từ sổ 
 ## Hướng dẫn cài đặt
 - **B1:** Cài đặt <a href="https://www.python.org/downloads/" target="_blank">python3</a> 
 - **B2:** Download project sau đó giải nén 
-- **B3:** Chạy file `install.bat` để cài đặt các module cần thiết
+- **B3:** Chạy file `install.bat` để cài đặt các module cần thiết. 
 Hoặc nếu xảy ra lỗi thì bạn bật `Command Prompt (cmd)` rồi chạy câu lệnh sau `pip install -r requirement.txt`
 - **B4:** Chạy file `main.bat` để chạy chương trình
 
